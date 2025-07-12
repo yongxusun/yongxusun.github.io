@@ -20,7 +20,6 @@ author: Yongxu Sun
 ###############################################
 
 navbar-links:
-  About Me: "Hello, I am Yongxu Sun."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -100,9 +99,6 @@ share-links-active:
   vk: false
   reddit: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
