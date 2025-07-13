@@ -50,15 +50,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "yongxusun0919@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true
   github: yongxusun
   linkedin: yongxu-sun
+  telephone: "+12065939140"      # quoted, 2-space indent
+  orcid: "0009-0007-8997-8839"   # lower-case key, quoted
+#  google-scholar: your google scholar
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-   telephone: +12065939140  
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -66,8 +68,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: 0009-0007-8997-8839  
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
