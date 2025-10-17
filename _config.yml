@@ -24,7 +24,11 @@ navbar-links:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   CV: "https://docs.google.com/document/d/1WEsFiWZO2oUrhnu0KZ2cnmG1kxsB5-3tUAU38938Zlc/edit?tab=t.0"
-
+  github: yongxusun
+  linkedin: yongxu-sun
+  telephone: "+12065939140"      # quoted, 2-space indent
+  orcid: "0009-0007-8997-8839"   # lower-case key, quoted
+  google-scholar: https://scholar.google.com/citations?user=UUXI8MQAAAAJ&hl=en&oi=ao
 ################
 # --- Logo --- #
 ################
