@@ -1,6 +1,7 @@
+- date: 2026-03-02
+  text: "Presented our IASEAI 2026 paper at UNESCO Headquarters in Paris!"
 - date: 2025-12-10
-  text: "Thrilled to share that our paper, <em>VEAT Quantifies Implicit Associations in Text-to-Video Generator Sora and Reveals Challenges in Bias Mitigation</em>, has been accepted for presentation at <a href=\"https://www.iaseai.org/iaseai26\" target=\"_blank\">IASEAI 2026</a>!"
-
+  text: "Thrilled to share that our paper, <em>VEAT Quantifies Implicit Associations in Text-to-Video Generator Sora and Reveals Challenges in Bias Mitigation</em>, has been accepted for presentation at <a href=\"https://www.iaseai.org/iaseai26\" target=\"_blank\">IASEAI 2026</a>! <a href=\"https://arxiv.org/pdf/2601.00996.pdf\" target=\"_blank\">PDF</a> | <a href=\"https://github.com/yongxusun/VEAT\" target=\"_blank\">Code</a>"
 - date: 2025-09-16
   text: "Officially started my PhD in Information Science at UW Information School!"
 
